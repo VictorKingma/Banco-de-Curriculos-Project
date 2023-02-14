@@ -1,0 +1,64 @@
+@font-face {
+    font-family: CoolveticaUL;
+    src: url(/src/fonts/CoolveticaUl-Regular.woff2);
+}
+
+@font-face {
+    font-family: CoolveticaULI;
+    src: url(/src/fonts/CoolveticaUl-Italic.woff2);
+}
+
+@font-face {
+    font-family: CoolveticaRG;
+    src: url(/src/fonts/CoolveticaRg-Regular.woff2);
+}
+
+@font-face {
+    font-family: CoolveticaRGI;
+    src: url(/src/fonts/CoolveticaRg-Italic.woff2);
+}
+
+@font-face {
+    font-family: CoolveticaBO;
+    src: url(/src/fonts/CoolveticaRg-Bold.woff2);
+}
+
+@font-face {
+    font-family: CoolveticaBOI;
+    src: url(/src/fonts/CoolveticaRg-BoldItalic.woff2);
+}
+
+@font-face {
+    font-family: CoolveticaLT;
+    src: url(/src/fonts/CoolveticaLt-Regular.woff2);
+}
+
+@font-face {
+    font-family: CoolveticaLTI;
+    src: url(/src/fonts//CoolveticaLt-Italic.woff2);
+}
+
+@font-face {
+    font-family: CoolveticaHV;
+    src: url(/src/fonts/CoolveticaHv-Regular.woff2);
+}
+
+@font-face {
+    font-family: CoolveticaEL;
+    src: url(/src/fonts/CoolveticaEl-Regular.woff2);
+}
+
+@font-face {
+    font-family: CoolveticaELI;
+    src: url(/src/fonts/CoolveticaEl-Italic.woff2);
+}
+
+@font-face {
+    font-family: CoolveticaBK;
+    src: url(/src/fonts/CoolveticaBk-Regular.woff2);
+}
+
+@font-face {
+    font-family: CoolveticaBKI;
+    src: url(/src/fonts/CoolveticaBk-Italic.woff2);
+}

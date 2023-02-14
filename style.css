@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+}
+
+.link {
+    text-decoration: none;
+}
+
+
+.main-banner{
+    display: flex;
+    color: white;
+    font-family: CoolveticaRG;
+    height: 70vh;
+    background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.205) 37.35%, rgba(0, 0, 0, 0) 54.71%), url(/src/banner-principal.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    align-items: flex-start;
+    padding-left: 20%;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main-banner h1{
+    font-size: 3rem;
+}
+
+
+.main-banner-st{
+    font-family: CoolveticaLT;
+}
+
+.ct-vagas{
+    font-family: CoolveticaBK;
+}
+
+
+.card-vaga{
+    color: rgb(41, 41, 41);
+    text-transform: capitalize;
+    padding: 16px 44px;
+    border: 1px solid rgb(222, 223, 228);
+    border-radius: 8px;
+    transition: 0.6s
+
+    
+}
+
+
+.card-vaga:hover{
+    border: 1px solid rgb(238, 166, 11);
+}
+
+.card-vaga span{
+        font-family: CoolveticaLT;
+        display: block;
+        padding: 5px 6px;
+        background: rgb(245, 246, 250);
+        border-radius: 4px;
+        font-weight: 700;
+        font-size: 10px;
+        color: rgb(106, 108, 114);
+        text-transform: capitalize;
+}
+
+.sDPFS:before{
+    content: "";
+    background-color: rgb(218, 218, 218);
+    width: 100%;
+    display: block;
+    height: 1px;
+    position: relative;
+    top: -20px;
+}
